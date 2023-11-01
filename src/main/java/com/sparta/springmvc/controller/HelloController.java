@@ -34,6 +34,7 @@ public class HelloController {
 
 
 
+
     @DeleteMapping("/delete")
     @ResponseBody
     public String delete(){
